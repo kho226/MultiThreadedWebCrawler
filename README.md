@@ -16,3 +16,6 @@ pip install -r requirements.txt
 ```
 python webCrawler.py <url>
 ```
+
+## Time to completion
+2.5 hours
